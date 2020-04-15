@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>369663344779-ft86j7mfq08o0rmfl3hc883j76stdkt9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.369663344779-ft86j7mfq08o0rmfl3hc883j76stdkt9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB9qjE35JXhLBhY7sFDg3IkTkeR9miDM8A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>369663344779</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.algo.LearnXinYMin</string>
+	<key>PROJECT_ID</key>
+	<string>learn-x-in-y-minutes-e9b03</string>
+	<key>STORAGE_BUCKET</key>
+	<string>learn-x-in-y-minutes-e9b03.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:369663344779:ios:17d97b94d4f018120f148e</string>
+	<key>DATABASE_URL</key>
+	<string>https://learn-x-in-y-minutes-e9b03.firebaseio.com</string>
+</dict>
+</plist>
